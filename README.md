@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](img src="https://raw.githubusercontent.com/mik3y3h/Michael_Yeh/main/Images/IMG_6609%5B2019%5D.jpg" width=20% height=20%)
+![alt text] <img src="https://raw.githubusercontent.com/mik3y3h/Michael_Yeh/main/Images/IMG_6609%5B2019%5D.jpg" width=20% height=20%>
 
 <!-- Add your details -->
 
